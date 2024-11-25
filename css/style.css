@@ -1,0 +1,21 @@
+
+h1{
+    font-size: 75px;
+    font-family: Impact;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color:#C39898;
+    color: black;
+    transition: .5s;
+    border:#C39898 3px solid;
+}
+p{
+    font-size: 35px;
+}
+button:hover{
+    background-color: #800000;
+    color: white;
+    border-color: #800000;
+}
